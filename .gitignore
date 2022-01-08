@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # ignore raw csvs
-.data_prep/raw_data/*.csv
+data_prep/raw_data/*.csv
