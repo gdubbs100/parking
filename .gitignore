@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore raw csvs
+.data_prep/raw_data/*.csv
